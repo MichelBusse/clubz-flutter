@@ -1,0 +1,384 @@
+{
+  "appName": "Clubz",
+  "homePageTitle": "Clubz",
+  "homePageMenuFeed": "Feed",
+  "homePageMenuCreate": "Create",
+  "homePageMenuProfile": "Profile",
+
+  "signInPageTitle": "Login",
+
+  "signInMethodsPageOptionEmail": "Sign in with Email",
+  "signInMethodsPageOptionGoogle": "Sign in with Google",
+  "signInMethodsPageOptionApple": "Sign in with Apple",
+  "signInMethodsPageOptionFacebook": "Sign in with Facebook",
+
+  "signInWithEmailPageHeadline": "Login",
+  "signInWithEmailPageSubmitButton": "Login",
+  "signInWithEmailPageEmailHint": "Email",
+  "signInWithEmailPagePasswordHint": "Password",
+  "signInWithEmailPageSignUpButton": "Sign up new account",
+  "signInWithEmailPageResetPasswordButton": "Reset password",
+
+  "resetPasswordPageHeadline": "Reset Password",
+  "resetPasswordPageSubmitButton": "Send reset link",
+  "resetPasswordPageEmailHint": "Email",
+  "resetPasswordPageEmailRequired": "Please provide your email",
+
+  "updatePasswordPageHeadline": "Update Password",
+  "updatePasswordPageSubmitButton": "Update",
+  "updatePasswordPagePasswordHint": "Password",
+  "updatePasswordPagePasswordConfirmHint": "Confirm password",
+  "updatePasswordPagePasswordsDoNotMatch": "Please check your password",
+
+  "signUpWithEmailPageHeadline": "Sign Up",
+  "signUpWithEmailPageSubmitButton": "Sign Up",
+  "signUpWithEmailPageEmailHint": "Email",
+  "signUpWithEmailPagePasswordHint": "Password",
+  "signUpWithEmailPagePasswordConfirmHint": "Confirm password",
+  "signUpWithEmailPageSignInButton": "Login to existing account",
+  "signUpWithEmailPagePasswordsDoNotMatch": "Please check your password",
+  "signUpWithEmailPageInfoMessage": "Please verify your mail and then login here",
+
+  "privacyPolicyPageButton": "Privacy Policy",
+  "privacyPolicyPageTitle": "Privacy Policy",
+
+  "imprintPageButton": "Imprint",
+  "imprintPageTitle": "Imprint",
+
+  "termsOfUsePageButton": "Terms of Use",
+  "termsOfUsePageTitle": "Terms of Use",
+
+  "editEventPageTitle": "Edit Event",
+  "addEventPageTitle": "Create Event",
+  "editEventPageNameHint": "Name",
+  "editEventPageDescriptionHint": "Description",
+  "editEventPagePricePolicyPriceHint": "Enter Ticket Price",
+  "editEventPagePricePolicyLinkHint": "Enter Ticket Link",
+  "editEventPageDeleteDialogTitle": "Delete Event",
+  "editEventPageDeleteDialogDescription": "Are you sure, you want to delete this event?",
+  "editEventPagePublicDialogTitle": "Warning",
+  "editEventPagePublicDialogDescription": "Your profile is public and the event is visible in your profile. Are you sure you want this event to be public?",
+  "editEventPageCropperTitle": "Change Event Image",
+  "editEventPageStartDatetime": "Start",
+  "editEventPageEndDatetime": "End",
+  "editEventPageLocation": "Location",
+  "editEventPageRepeatWeekly": "Repeat weekly:",
+  "editEventPageVisibleInProfile": "Visible in Profile:",
+  "editEventPageSave": "Save",
+  "editEventPageCreate": "Create",
+  "editEventPageDelete": "Delete",
+  "editEventPageDressCode": "Dress Code",
+  "editEventPageAgePolicy": "Age Policy",
+  "editEventPagePricePolicy": "Ticket Policy",
+  "editEventPageCategory": "Category",
+  "editEventPageDescription": "Description",
+  "editEventPagePricePolicyPrice": "Ticket Price",
+  "editEventPagePricePolicyLink": "Ticket Link",
+  "editEventPageNoLocation": "No Location",
+
+  "eventDetailsPageTimeSuffix": "",
+
+  "locationPickerTitle": "Pick Location",
+  "locationPickerHint": "Location",
+  "locationPickerNoLocationDescription": "Create event without location",
+  "locationPickerMyLocation": "My Location",
+
+  "filterTitle": "Filter",
+  "filterLocationDefault": "Location",
+  "filterSubmitButton": "Show events",
+
+  "editEventPageFormValidationStartInPast": "Start of event can't be in the past",
+  "editEventPageFormValidationEndBeforeStart": "End can't be before start",
+
+  "eventAttending": "Attending",
+
+  "eventInterested": "Interested",
+
+  "alertDialogContinue": "Continue",
+  "alertDialogCancel": "Cancel",
+
+  "eventProfilesMore": "...and {count} more",
+  "@eventProfilesMore": {
+    "description": "Count indicator",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "24"
+      }
+    }
+  },
+
+  "feedPageTitle": "Feed",
+
+  "installPromptHeadline": "Install the app and discover all features",
+  "installPromptOpenButton": "Open Clubz",
+  "installPromptDismissButton": "Dismiss",
+
+  "settingsPageTitle": "Settings",
+  "settingsPageLogoutButton": "Logout",
+  "settingsPageDeleteAccountButton": "Delete profile",
+  "settingsPageDeleteProfileDialogTitle": "Delete Profile",
+  "settingsPageDeleteProfileDialogDescription": "Are you sure you want to delete your profile? This action can't be undone and will delete every created event.",
+
+  "settingsProfilePageDisplayNameHint": "Name",
+  "settingsProfilePageUserNameHint": "Username",
+  "settingsProfilePagePublicProfileLabel": "Public Profile",
+  "settingsProfilePageCropperTitle": "Change Profile Picture",
+  "settingsProfilePageSave": "Save",
+  "settingsProfilePageLogout": "Logout",
+
+  "formValidatorEmpty": "This field cannot be empty",
+  "formValidatorTooShort": "This field is too short",
+
+  "followersPageTitle": "Followers",
+  "followersPageFollowers": "My Followers",
+  "followersPageFollowing": "Following",
+  "followersPageSentRequests": "Sent Requests",
+  "followersPageReceivedRequests": "Received Requests",
+
+  "requestFollowingPageTitle": "Find Profiles",
+
+  "profileDetailViewPagePrivateProfile": "This profile is private",
+  "profileDetailViewPageFilterUpcoming": "Upcoming",
+  "profileDetailViewPageFilterPast": "Past",
+
+  "profileStatsFollower": "Follower",
+  "profileStatsScore": "Clubz Score",
+  "profileStatsEvents": "Events",
+
+  "addFollowingButtonLargeFollow": "Follow",
+  "addFollowingButtonLargeCancelRequest": "Cancel Request",
+  "addFollowingButtonLargeUnfollow": "Unfollow",
+
+  "fetchingListNoEntriesFound": "No Entries Found",
+
+  "dressCode0": "Casual",
+  "dressCode1": "Chic",
+  "dressCode2": "Elegant",
+  "dressCode3": "Costume",
+
+  "agePolicy0": "None",
+  "agePolicy1": "16+",
+  "agePolicy2": "18+",
+  "agePolicy3": "21+",
+  "agePolicy4": "Special",
+
+  "pricePolicy0": "Free",
+  "pricePolicy1": "Presale",
+  "pricePolicy2": "Box Office",
+  "pricePolicy3": "Mixed",
+
+  "reportEventDialogTitle": "Report Event",
+  "reportEventDialogText": "Report this event for violating the Terms of Use.",
+  "reportEventDialogSuccess": "Thank you for reporting the event. We will review the report and remove the event if necessary.",
+  "reportProfileDialogTitle": "Report Profile",
+  "reportProfileDialogText": "Report this profile for violating the Terms of Use.",
+  "reportProfileDialogSuccess": "Thank you for reporting the profile. We will review the report and remove the profile if necessary.",
+  "reportDialogReasonHint": "Reason...",
+  "reportDialogSubmitButton": "Report",
+  "reportDialogBlockProfileButton": "Block profile",
+
+  "badStateErrorPageTitle": "Error",
+  "badStateErrorPageText": "An error occurred whilst trying to load the page.",
+
+  "exceptionGenericError": "Error: Something went wrong",
+  "exceptionNotAuthenticated": "Error: You are not authenticated",
+  "exceptionNotAuthorized": "Error: You are not authorized to perform this action",
+
+  "exceptionProfileNotFound": "Error: Profile not found",
+  "exceptionProfileNotInitialized": "Error: Profile not initialized yet",
+  "exceptionNoProfilePictureSet": "Error: No profile picture set",
+  "exceptionChangeProfilePicture": "Error: Could not change profile picture",
+  "exceptionGetProfilePicture": "Error: Could not get profile picture",
+  "exceptionUpdateProfile": "Error: Could not update profile",
+  "exceptionCreateProfile": "Error: Could not create profile",
+  "exceptionGetProfile": "Error: Could not get profile details",
+  "exceptionGetProfileStats": "Error: Could not get profile stats",
+  "exceptionProfileAlreadyCreated": "Error: Your profile has already been created",
+
+  "exceptionSignInWithEmail": "Error: Email and password do not match to any user",
+  "exceptionSignUpWithEmail": "Error: Signing up failed",
+  "exceptionSignInWithOAuth2": "Error: Login failed",
+  "exceptionSignOut": "Error: Logout failed",
+  "exceptionForcedDelay": "Error: Please wait until you try again",
+  "exceptionUpdatePassword": "Error: Could not update password",
+  "exceptionResetPassword": "Error: Could not reset password",
+  "exceptionDeleteUser": "Error: Could not delete user",
+
+  "exceptionEventWithoutId": "Error: Event has no ID",
+  "exceptionNoEventPictureSet": "Error: No Event Picture set",
+  "exceptionGetEventPicture": "Error: Could not get event picture",
+  "exceptionChangeEventPicture": "Error: Could not change event picture",
+  "exceptionChangeEventThumbnail": "Error: Could not change event thumbnail",
+  "exceptionAddEventImage": "Error: Could not add image to event",
+  "exceptionRemoveEventImage": "Error: Could not remove image to event",
+  "exceptionGetEventImagesURLs": "Error: Could not fetch images of event",
+  "exceptionGetEvent": "Error: Could not get event details",
+  "exceptionDeleteEvent": "Error: Could not delete event details",
+  "exceptionUpsertEvent": "Error: Could not edit event",
+
+  "exceptionSendFollowRequest": "Error: Could not send follow request",
+  "exceptionAcceptFollowRequests": "Error: Could not accept follow request",
+  "exceptionCancelFollowRequest": "Error: Could not cancel follow request",
+  "exceptionRejectFollowRequest": "Error: Could not reject follow request",
+  "exceptionRemoveFollower": "Error: Could not remove follower",
+  "exceptionRemoveFollowing": "Error: Could not end following",
+
+  "exceptionToggleEventState": "Error: Could not toggle status",
+
+  "exceptionLocationServicesDisabled": "Error: Location services are disabled",
+  "exceptionLocationPermissionsDenied": "Error: Location permissions denied",
+  "exceptionLocationPermissionsDeniedPermanently": "Error: Location permissions are permanently denied, we cannot request permissions",
+  "exceptionShare": "Error: Could not create sharing data",
+  "exceptionGooglePlaces": "Error: Could not get places data",
+
+  "exceptionReportProfile": "Error: Could not report profile",
+  "exceptionReportEvent": "Error: Could not report event",
+  "exceptionBlockProfile": "Error: Could not block profile",
+
+  "exceptionPickImage": "Error: Could not load image",
+  "exceptionPickImagePermission": "Error: Permission to access photos is denied. Please allow access to photos in your smartphone settings to use this functionality",
+  "exceptionGenerateImage": "Error: Failed to generate image",
+
+  "imprint1": "According to § 5 TMG",
+  "imprint2": "Clubz, an app by:\n{legalName}\n{legalAddressStreet}\n{legalAddressCity}",
+  "@imprint2": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      },
+      "legalAddressStreet": {
+        "type": "String",
+        "example": "Main Street 12"
+      },
+      "legalAddressCity": {
+        "type": "String",
+        "example": "Devtown 01234"
+      }
+    }
+  },
+  "imprint3": "Contact",
+  "imprint4": "Telephone: 0160 98709043\nEmail: kontakt@m-to.b.com",
+  "imprint5": "Tax ID",
+  "imprint6": "Sales tax identification number according to § 27 a sales tax law:\nDE343086286",
+  "imprint7": "EU Dispute Settlement",
+  "imprint8": "The European Commission provides a platform for online dispute resolution (OS): https://ec.europa.eu/consumers/odr/. Our e-mail address can be found above in the imprint.",
+  "imprint9": "Consumer Dispute Settlement / Universal Arbitration Board",
+  "imprint10": "We are not willing or obliged to participate in dispute resolution procedures before a consumer arbitration board.",
+  "imprint11": "Source: e-recht24.de",
+
+  "privacyPolicy1": "At M-to-B Software, we recognize how important privacy is to our users. We take our responsibility for the personal data you provide to us very seriously. In this privacy statement, we would like to explain which personal data we collect and how we use that data.",
+  "privacyPolicy2": "Responsible for the processing of personal data",
+  "privacyPolicy3": "Responsible within the meaning of the General Data Protection Regulation (GDPR) for the processing of personal data in connection with the use of the Clubz app is\n\n{legalName}\n{legalAddressStreet}\n{legalAddressCity}",
+  "@privacyPolicy3": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      },
+      "legalAddressStreet": {
+        "type": "String",
+        "example": "Main Street 12"
+      },
+      "legalAddressCity": {
+        "type": "String",
+        "example": "Devtown 01234"
+      }
+    }
+  },
+  "privacyPolicy4": "Collection and processing of personal data",
+  "privacyPolicy5": "a) Registration and profile\nIn order to be able to use the Clubz app, you must first register. We collect your e-mail address. Optionally, you can provide additional information about your profile, such as your name, a profile picture and a username. You can delete your user account and data by deleting your profile in settings.",
+  "privacyPolicy6": "b) Use of the app\nIf you use the Clubz app, we collect data that is directly related to use. This includes, for example, information about the events you have created or attended, such as date, location and event name. We also collect data about your app settings and interactions with other user profiles, such as followers and subscribed people Optionally, after your confirmation, the Clubz app accesses the location data of your device, which is necessary for the use of certain functions, such as selecting the location for your event , or location filtering.",
+  "privacyPolicy7": "c) Automatically collected data When using the Clubz app, technical data is automatically collected, such as the IP address of your device, the date and time of access, the type of operating system, the browser and device type and the language settings.",
+  "privacyPolicy8": "d) Analysis data\nWhile using the app, we continue to collect data about your interactions, such as certain button clicks or window views.",
+  "privacyPolicy9": "Purpose of data processing",
+  "privacyPolicy10": "a) Registration and profile\nThe collection and processing of your data in connection with registration and profile serves the purpose of enabling you to use the Clubz app and to offer you an interactive and personalized experience.",
+  "privacyPolicy11": "b) Use of the app\nThe collection and processing of data in connection with the use of the Clubz app serves the purpose of providing the app functions and offering you a personalized and optimized experience.",
+  "privacyPolicy12": "c) Automatically collected data\nThe automatically collected data is only used for technically necessary and statistical purposes to enable and improve the use of the Clubz app.",
+  "privacyPolicy13": "d) Analysis data\nThe collection and processing of analysis data serves the purpose of analyzing user behavior and improving the app experience.",
+  "privacyPolicy14": "Legal basis for data processing",
+  "privacyPolicy15": "The legal basis for the processing of your personal data is Art. 6 Para. 1 lit. b GDPR, since the processing of the data is necessary for the fulfillment of the user contract with you.",
+  "privacyPolicy16": "Hosting",
+  "privacyPolicy17": "The Clubz app uses the provider “Supabase” for server and database hosting. This provider provides the databases and the necessary server functions for authentication, use of the app and analysis.\nWe have concluded an order processing contract (AVV) with Supabase. This ensures that they only process the personal data of our website visitors according to our instructions and in compliance with the GDPR. For more information, please visit https://supabase.io/docs/company /privacy\n\nVendor:\nSupabase, Inc.,\n970 Toa Payoh North #07-04,\nSingapore 318992\nsupport@supabase.io",
+  "privacyPolicy18": "Disclosure to third parties",
+  "privacyPolicy19": "We do not pass on your personal data to third parties, unless this is necessary to fulfill the user contract with you or is required by law.",
+  "privacyPolicy20": "Retention Period",
+  "privacyPolicy21": "We only store your personal data for as long as is necessary for the performance of the user contract with you or as required by law. If you delete your Clubz profile, your personal data will be deleted, unless we are required by law to keep this data for a longer period of time.",
+  "privacyPolicy22": "Your rights",
+  "privacyPolicy23": "According to the GDPR, as a user of the Clubz app, you have various rights in relation to your personal data, which are listed as follows:",
+  "privacyPolicy24": "a) Right to information: You have the right to receive information about what personal data we have stored about you.",
+  "privacyPolicy25": "b) Right to rectification: You have the right to have inaccurate or incomplete personal data rectified by us.",
+  "privacyPolicy26": "c) Right to erasure: You have the right to request the erasure of your personal data from us, provided that the requirements of Art. 17 GDPR are met.",
+  "privacyPolicy27": "d) Right to restriction of processing: You have the right to request that we restrict the processing of your personal data, provided that the requirements of Art. 18 GDPR are met.",
+  "privacyPolicy28": "e) Right to data transferability: You have the right to request that we transfer your personal data to another body, provided that the requirements of Art. 20 GDPR are met.",
+  "privacyPolicy29": "f) Right to object: You have the right to object to the processing of your personal data at any time for reasons that arise from your particular situation, provided that the processing is based on legitimate interests in accordance with Art. 6 Para. 1 lit. f GDPR takes place.",
+  "privacyPolicy30": "g) Right of appeal: You have the right to lodge a complaint with the competent supervisory authority if you believe that the processing of your personal data violates the GDPR.",
+  "privacyPolicy31": "Request to delete data",
+  "privacyPolicy32": "You can request the deletion of your personal data using the following link.",
+  "privacyPolicy34": "Privacy Policy Changes",
+  "privacyPolicy35": "We reserve the right to update this data protection declaration at any time in order to adapt it to changed legal requirements or to take account of changes to our services or data processing processes. The current version of the data protection declaration is available on our website.",
+  "privacyPolicy36": "Contact",
+  "privacyPolicy37": "If you have any questions or concerns about privacy, you can contact us at the following address:\n\n{legalName}\n{legalAddressStreet}\n{legalAddressCity}\n{legalEmail}",
+  "@privacyPolicy37": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      },
+      "legalAddressStreet": {
+        "type": "String",
+        "example": "Main Street 12"
+      },
+      "legalAddressCity": {
+        "type": "String",
+        "example": "Devtown 01234"
+      },
+      "legalEmail": {
+        "type": "String",
+        "example": "example@example.dev"
+      }
+    }
+  },
+
+  "privacyPolicyDataDeletionPageTitle" : "Data Deletion",
+  "privacyPolicyDataDeletion1": "Use the form below if you would like to delete your account along with your user data. To do this, simply enter your email address or username for your account. If an account with this data exists, you will receive a confirmation email from us within one day and your data will then be deleted.",
+  "privacyPolicyDataDeletionHint": "Email / Username",
+  "privacyPolicyDataDeletionSubmitButton": "Request Deletion",
+  "privacyPolicyDataDeletionSuccess": "Deletion requested!",
+
+  "termsOfUse1": "1. Introduction",
+  "termsOfUse2": "The \"Clubz\" app is provided by {legalName} and allows users to create and search for events. The following terms of use/user guidelines regulate the use of the app and are legally binding. ",
+  "@termsOfUse2": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      }
+    }
+  },
+  "termsOfUse3": "2. Registration",
+  "termsOfUse4": "In order to be able to use all the functions of the app, you must register and create a profile. You must provide your correct personal information and must not provide any false information. If you are under the age of 18, you may use the app use only with the consent of a legal guardian.",
+  "termsOfUse5": "3. Profile Creation",
+  "termsOfUse6": "The App allows you to create a profile, which may be public or private. Your profile may include a profile picture, your name and username, and a brief description. You must ensure that your profile does not contain any content which may be considered offensive or offensive.You are responsible for ensuring that you own the rights to the images you upload.By creating a profile, you agree that Clubz may use and process the information you provide .",
+  "termsOfUse7": "4. Event Creation",
+  "termsOfUse8": "Through the app you can create events that are publicly viewable. The events may contain images and data such as name, location, start and end dates, description, ticket information, age restrictions and dress code. You agree to this , that your created events are publicly visible and the visibility is only superficially limited by the profile settings. Anyone who has a direct link to the event can still see all data publicly at any time. You confirm that you are authorized to promote the event and that all information you provide is true and complete.",
+  "termsOfUse9": "5. Terms of Use",
+  "termsOfUse10": "You are required to use the App and its features only within the terms of the Terms of Service and to comply with all applicable laws and regulations. You may not misuse the App to perform spam, unsolicited advertising, or any other illegal activity.",
+  "termsOfUse11": "6. Rules of Conduct",
+  "termsOfUse12": "You must not post or disseminate any inappropriate, abusive, defamatory, racist, sexist or otherwise unlawful content or conduct on the App. You must not post any content that infringes the rights of any third party, including copyright, trademark or privacy rights. You may not misrepresent your identity or your relationship with anyone.",
+  "termsOfUse13": "7. Content",
+  "termsOfUse14": "You are solely responsible for the content you post on the app, including events and images. You warrant that you have all necessary rights to the content you post and that you grant us as the app full rights to all You may not post content that is pornographic, violent, or otherwise objectionable. Users have the opportunity to report objectionable content or content that violates these Terms and have support review it.",
+  "termsOfUse15": "8. Copyright and Intellectual Property",
+  "termsOfUse16": "You may not post content that infringes the copyright or other intellectual property rights of third parties. If you believe that your copyrights have been violated, you can file a complaint.",
+  "termsOfUse17": "9. User Responsibility",
+  "termsOfUse18": "You are fully responsible for all of your activity on the App and for any Content you post. You agree to indemnify and defend us against any violation of these Terms of Use/User Policy." ,
+  "termsOfUse19": "10. Disclaimer",
+  "termsOfUse20": "As the app operator, we do not assume any guarantee or liability for the correctness, completeness or topicality of the content published in the app. We assume no liability for damage that may arise from the use of the app.",
+  "termsOfUse21": "11. Changes to Terms and Policies",
+  "termsOfUse22": "We reserve the right to change or update these terms and policies at any time. Changed terms and policies will be notified to you by email or other appropriate means and will be effective 30 days after notification, unless you give us your prior written consent. If you continue to use our app after this period, you will be deemed to have accepted the modified terms and policies.",
+  "termsOfUse23": "12. Termination of Use",
+  "termsOfUse24": "You may stop using our app at any time by deleting your account. We may also terminate or suspend your account at any time for cause, particularly if you violate these terms and policies. In the event of termination or suspension by you are not entitled to a refund of fees already paid.",
+  "termsOfUse25": "13. Final Provisions",
+  "termsOfUse26": "Should a provision of these terms and guidelines be or become wholly or partially invalid, this shall not affect the validity of the remaining provisions. The invalid provision shall be replaced by a provision which comes as close as possible to what the parties intended. It The law of the Federal Republic of Germany applies to the exclusion of the UN Sales Convention."
+}

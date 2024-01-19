@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.m_to_b.clubz",
+      "sha256_cert_fingerprints":
+      ["F3:76:D9:30:11:C8:8C:B5:4A:A8:25:03:38:92:01:8F:4D:99:69:8B:FC:74:12:E4:A0:50:A3:4C:2F:5E:0E:1A"]
+    }
+  }
+]

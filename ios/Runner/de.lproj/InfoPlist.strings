@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Michel Busse on 18.02.23.
+  
+*/
+"NSUserTrackingUsageDescription"="Diese Kennung wird verwendet, um Benutzerdaten zu sammeln und dadurch die Funktionalität der App zu verbessern.";

@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Michel Busse on 18.02.23.
+  
+*/
+"NSUserTrackingUsageDescription"="This identifier will be used to gather user data to better improve the app's functionality.";

@@ -1,0 +1,384 @@
+{
+  "appName": "Clubz",
+  "homePageTitle": "Clubz",
+  "homePageMenuFeed": "Feed",
+  "homePageMenuCreate": "Erstellen",
+  "homePageMenuProfile": "Profil",
+
+  "signInPageTitle": "Login",
+
+  "signInMethodsPageOptionEmail": "Login mit Email",
+  "signInMethodsPageOptionGoogle": "Login mit Google",
+  "signInMethodsPageOptionApple": "Login mit Apple",
+  "signInMethodsPageOptionFacebook": "Login mit Facebook",
+
+  "signInWithEmailPageHeadline": "Login",
+  "signInWithEmailPageSubmitButton": "Login",
+  "signInWithEmailPageEmailHint": "Email",
+  "signInWithEmailPagePasswordHint": "Passwort",
+  "signInWithEmailPageSignUpButton": "Neuen Account registrieren",
+  "signInWithEmailPageResetPasswordButton": "Passwort zurücksetzen",
+
+  "resetPasswordPageHeadline": "Passwort-Reset",
+  "resetPasswordPageSubmitButton": "Reset-Link senden",
+  "resetPasswordPageEmailHint": "Email",
+  "resetPasswordPageEmailRequired": "Bitte gib deine Email an",
+
+  "updatePasswordPageHeadline": "Password Ändern",
+  "updatePasswordPageSubmitButton": "Ändern",
+  "updatePasswordPagePasswordHint": "Passwort",
+  "updatePasswordPagePasswordConfirmHint": "Passwort wiederholen",
+  "updatePasswordPagePasswordsDoNotMatch": "Bitte überprüfe dein Passwort",
+
+  "signUpWithEmailPageHeadline": "Registrieren",
+  "signUpWithEmailPageSubmitButton": "Registrieren",
+  "signUpWithEmailPageEmailHint": "Email",
+  "signUpWithEmailPagePasswordHint": "Passwort",
+  "signUpWithEmailPagePasswordConfirmHint": "Passwort wiederholen",
+  "signUpWithEmailPageSignInButton": "Mit bestehendem Account anmelden",
+  "signUpWithEmailPagePasswordsDoNotMatch": "Bitte überprüfe dein Passwort",
+  "signUpWithEmailPageInfoMessage": "Bitte verifiziere deine Email und melde dich dann hier an",
+
+  "privacyPolicyPageButton": "Datenschutzerklärung",
+  "privacyPolicyPageTitle": "Datenschutzerklärung",
+
+  "imprintPageButton": "Impressum",
+  "imprintPageTitle": "Impressum",
+
+  "termsOfUsePageButton": "Nutzungsbedingungen",
+  "termsOfUsePageTitle": "Nutzungsbedingungen",
+
+  "editEventPageTitle": "Event Bearbeiten",
+  "addEventPageTitle": "Event Erstellen",
+  "editEventPageNameHint": "Name...",
+  "editEventPageDescriptionHint": "Beschreibung...",
+  "editEventPagePricePolicyPriceHint": "Ticketpreis...",
+  "editEventPagePricePolicyLinkHint": "Ticketlink...",
+  "editEventPageDeleteDialogTitle": "Event Löschen",
+  "editEventPageDeleteDialogDescription": "Bist du sicher, dass du dieses Event löschen möchtest?",
+  "editEventPagePublicDialogTitle": "Warnung",
+  "editEventPagePublicDialogDescription": "Dein Profil ist öffentlich und das Event wird in deinem Profil gelistet. Bist du sicher, dass dieses Event öffentlich sein soll?",
+  "editEventPageCropperTitle": "Event-Bild Bearbeiten",
+  "editEventPageStartDatetime": "Start",
+  "editEventPageEndDatetime": "Ende",
+  "editEventPageLocation": "Ort",
+  "editEventPageRepeatWeekly": "Wöchentlich wiederholen:",
+  "editEventPageVisibleInProfile": "Im Profil sichtbar:",
+  "editEventPageSave": "Speichern",
+  "editEventPageCreate": "Erstellen",
+  "editEventPageDelete": "Löschen",
+  "editEventPageDressCode": "Dresscode",
+  "editEventPageAgePolicy": "Alter",
+  "editEventPagePricePolicy": "Tickets",
+  "editEventPageCategory": "Kategorie",
+  "editEventPageDescription": "Beschreibung",
+  "editEventPagePricePolicyPrice": "Ticketpreis",
+  "editEventPagePricePolicyLink": "Ticketlink",
+  "editEventPageNoLocation": "Kein Ort",
+
+  "eventDetailsPageTimeSuffix": " Uhr",
+
+  "locationPickerTitle": "Ort Wählen",
+  "locationPickerHint": "Ort...",
+  "locationPickerNoLocationDescription": "Erstelle ein Event ohne einen Ort",
+  "locationPickerMyLocation": "Mein Standort",
+
+  "filterTitle": "Filter",
+  "filterLocationDefault": "Ort",
+  "filterSubmitButton": "Events anzeigen",
+
+  "editEventPageFormValidationStartInPast": "Das Startdatum kann nicht in der Vergangenheit liegen",
+  "editEventPageFormValidationEndBeforeStart": "Das Enddatum kann nicht vor dem Startdatum liegen",
+
+  "eventAttending": "Teilnehmer",
+
+  "eventInterested": "Interessiert",
+
+  "alertDialogContinue": "Weiter",
+  "alertDialogCancel": "Abbrechen",
+
+  "eventProfilesMore": "...und {count} weitere",
+  "@eventProfilesMore": {
+    "description": "Anzahl-Display",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "24"
+      }
+    }
+  },
+
+  "feedPageTitle": "Feed",
+
+  "installPromptHeadline": "Hol dir die App und nutze alle Funktionen",
+  "installPromptOpenButton": "Clubz öffnen",
+  "installPromptDismissButton": "Später",
+
+  "settingsPageTitle": "Einstellungen",
+  "settingsPageLogoutButton": "Logout",
+  "settingsPageDeleteAccountButton": "Profil löschen",
+  "settingsPageDeleteProfileDialogTitle": "Profil Löschen",
+  "settingsPageDeleteProfileDialogDescription": "Möchtest du dein Profil wirklich löschen? Dadurch werden auch alle erstellten Events gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.",
+
+  "settingsProfilePageDisplayNameHint": "Name",
+  "settingsProfilePageUserNameHint": "Username",
+  "settingsProfilePagePublicProfileLabel": "Öffentliches Profil",
+  "settingsProfilePageCropperTitle": "Profilbild ändern",
+  "settingsProfilePageSave": "Speichern",
+  "settingsProfilePageLogout": "Logout",
+
+  "formValidatorEmpty": "Dieses Feld darf nicht leer sein",
+  "formValidatorTooShort": "Dieses Feld ist zu kurz",
+
+  "followersPageTitle": "Follower",
+  "followersPageFollowers": "Meine Follower",
+  "followersPageFollowing": "Abonniert",
+  "followersPageSentRequests": "Gesendete Anfragen",
+  "followersPageReceivedRequests": "Empfangene Anfragen",
+
+  "requestFollowingPageTitle": "Profile finden",
+
+  "profileDetailViewPagePrivateProfile": "Dieses Profil ist privat",
+  "profileDetailViewPageFilterUpcoming": "Nächste",
+  "profileDetailViewPageFilterPast": "Vergangene",
+
+  "profileStatsFollower": "Follower",
+  "profileStatsScore": "Clubz-Score",
+  "profileStatsEvents": "Events",
+
+  "addFollowingButtonLargeFollow": "Abonnieren",
+  "addFollowingButtonLargeCancelRequest": "Anfrage abbrechen",
+  "addFollowingButtonLargeUnfollow": "Deabonnieren",
+
+  "fetchingListNoEntriesFound": "Keine Enträge gefunden",
+
+  "dressCode0": "Casual",
+  "dressCode1": "Schick",
+  "dressCode2": "Elegant",
+  "dressCode3": "Kostüm",
+
+  "agePolicy0": "Keine",
+  "agePolicy1": "16+",
+  "agePolicy2": "18+",
+  "agePolicy3": "21+",
+  "agePolicy4": "Speziell",
+
+  "pricePolicy0": "Kostenlos",
+  "pricePolicy1": "Pre-Sale",
+  "pricePolicy2": "Abendkasse",
+  "pricePolicy3": "Gemischt",
+
+  "reportEventDialogTitle": "Event melden",
+  "reportEventDialogText": "Dieses Event melden, weil es gegen die Nutzungsbedingungen verstößt.",
+  "reportEventDialogSuccess": "Danke, dass du dieses Event gemeldet hast. Wir werden die Meldung überprüfen und gegebenenfalls das Event entfernen.",
+  "reportProfileDialogTitle": "Profil melden",
+  "reportProfileDialogText": "Dieses Profil melden, weil es gegen die Nutzungsbedingungen verstößt.",
+  "reportProfileDialogSuccess": "Danke, dass du dieses Profil gemeldet hast. Wir werden die Meldung überprüfen und gegebenenfalls das Profil entfernen.",
+  "reportDialogReasonHint": "Grund...",
+
+  "reportDialogSubmitButton": "Melden",
+  "reportDialogBlockProfileButton": "Profil blockieren",
+
+  "badStateErrorPageTitle": "Fehler",
+  "badStateErrorPageText": "Beim Laden der Seite ist ein Fehler aufgetreten.",
+
+  "exceptionGenericError": "Fehler: Etwas ist schief gelaufen",
+  "exceptionNotAuthenticated": "Fehler: Du bist nicht authentifiziert",
+  "exceptionNotAuthorized": "Fehler: Du bist für diese Aktion nicht autorisiert",
+
+  "exceptionProfileNotFound": "Fehler: Profil nicht gefunden",
+  "exceptionProfileNotInitialized": "Fehler: Profil noch nicht initialisiert",
+  "exceptionNoProfilePictureSet": "Fehler: Kein Profilbild gesetzt",
+  "exceptionChangeProfilePicture": "Fehler: Profilbild konnte nicht geändert werden",
+  "exceptionGetProfilePicture": "Fehler: Profilbild konnte nicht geladen werden",
+  "exceptionUpdateProfile": "Fehler: Profil konnte nicht geupdated werden",
+  "exceptionCreateProfile": "Fehler: Profil konnte nicht erstellt werden",
+  "exceptionGetProfile": "Fehler: Profil konnte nicht geladen werden",
+  "exceptionGetProfileStats": "Fehler: Profilstatistiken konnten nicht geladen werden",
+  "exceptionProfileAlreadyCreated": "Fehler: Das Profil wurde bereits erstellt",
+
+  "exceptionSignInWithEmail": "Fehler: Email und Passwort passen zu keinem Nutzer",
+  "exceptionSignUpWithEmail": "Fehler: Registrierung fehlgeschlagen",
+  "exceptionSignInWithOAuth2": "Fehler: Login fehlgeschlagen",
+  "exceptionSignOut": "Fehler: Logout fehlgeschlagen",
+  "exceptionForcedDelay": "Fehler: Bitte warte kurz, bevor du es erneut probierst",
+  "exceptionUpdatePassword": "Fehler: Passwort konnte nicht geändert werden",
+  "exceptionResetPassword": "Fehler: Passwort-Reset fehlgeschlagen",
+  "exceptionDeleteUser": "Fehler: Nutzer konnte nicht gelöscht werden",
+
+  "exceptionEventWithoutId": "Fehler: Das Event besitzt keine ID",
+  "exceptionNoEventPictureSet": "Fehler: Kein Eventbild gesetzt",
+  "exceptionGetEventPicture": "Fehler: Eventbild konnte nicht geladen werden",
+  "exceptionChangeEventThumbnail": "Fehler: Event-Thumbnail konnte nicht geändert werden",
+  "exceptionAddEventImage": "Fehler: Bild konnte nicht zum Event hinzugefügt werden",
+  "exceptionRemoveEventImage": "Fehler: Bild konnte nicht vom Event entfernt werden",
+  "exceptionGetEventImagesURLs": "Fehler: Bilder des Events konnten nicht geladen werden",
+  "exceptionGetEvent": "Fehler: Event konnte nicht geladen werden",
+  "exceptionDeleteEvent": "Fehler: Event konnte nicht gelöscht werden",
+  "exceptionUpsertEvent": "Fehler: Event konnte nicht gespeichert werden",
+
+  "exceptionSendFollowRequest": "Fehler: Follow-Anfrage konnte nicht gesendet werden",
+  "exceptionAcceptFollowRequests": "Fehler: Follow-Anfrage konnte nicht akzeptiert werden",
+  "exceptionCancelFollowRequest": "Fehler: Follow-Anfrage konnte nicht abgebrochen werden",
+  "exceptionRejectFollowRequest": "Fehler: Follow-Anfrage konnte nicht abgelehnt werden",
+  "exceptionRemoveFollower": "Fehler: Follower konnte nicht entfernt werden",
+  "exceptionRemoveFollowing": "Fehler: Abo konnte nicht entfernt werden",
+
+  "exceptionToggleEventState": "Fehler: Status konnte nicht geändert werden",
+
+  "exceptionLocationServicesDisabled": "Fehler: Orts-Services sind deaktiviert",
+  "exceptionLocationPermissionsDenied": "Fehler: Standort-Berechtigungen verweigert",
+  "exceptionLocationPermissionsDeniedPermanently": "Fehler: Standort-Berechtigungen dauerhaft verweigert, wir können die Berechtigung nicht mehr anfragen",
+  "exceptionShare": "Fehler: Sharing-Data konnte nicht geladen werden",
+  "exceptionGooglePlaces": "Fehler: Orts-Informationen konnten nicht geladen werden",
+
+  "exceptionReportProfile": "Fehler: Profil konnte nicht gemeldet werden",
+  "exceptionReportEvent": "Fehler: Event konnte nicht gemeldet werden",
+  "exceptionBlockProfile": "Fehler: Profil konnte nicht blockiert werden",
+
+  "exceptionPickImage": "Fehler: Bild konnte nicht geladen werden",
+  "exceptionPickImagePermission": "Fehler: Die Berechtigung auf Fotos zuzugreifen wurde abgelehnt. Erlaube den Zugriff auf Fotos in deinen Smartphone Einstellungen um diese Funktion zu nutzen",
+  "exceptionGenerateImage": "Fehler: Bildgenerierung fehlgeschlagen",
+
+  "imprint1": "Angaben gemäß § 5 TMG",
+  "imprint2": "Clubz, eine App von:\n{legalName}\n{legalAddressStreet}\n{legalAddressCity}",
+  "@imprint2": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      },
+      "legalAddressStreet": {
+        "type": "String",
+        "example": "Main Street 12"
+      },
+      "legalAddressCity": {
+        "type": "String",
+        "example": "Devtown 01234"
+      }
+    }
+  },
+  "imprint3": "Kontakt",
+  "imprint4": "Telefon: 0160 98709043\\nE-Mail: kontakt@m-to.b.com",
+  "imprint5": "Umsatzsteuer-ID",
+  "imprint6": "Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\\nDE343086286",
+  "imprint7": "EU-Streitschlichtung",
+  "imprint8": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Unsere E-Mail-Adresse finden Sie oben im Impressum.",
+  "imprint9": "Verbraucherstreitbeilegung/ Universalschlichtungsstelle",
+  "imprint10": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+  "imprint11": "Quelle: e-recht24.de",
+
+  "privacyPolicy1": "Wir bei M-to-B Software sind uns bewusst, wie wichtig Datenschutz für unsere Nutzer ist. Wir nehmen unsere Verantwortung für die personenbezogenen Daten, die Sie uns zur Verfügung stellen, sehr ernst. In dieser Datenschutzerklärung möchten wir erläutern, welche personenbezogenen Daten wir erheben und wie wir diese Daten verwenden.",
+  "privacyPolicy2": "Verantwortlicher für die Verarbeitung personenbezogener Daten",
+  "privacyPolicy3": "Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) für die Verarbeitung personenbezogener Daten im Zusammenhang mit der Nutzung der Clubz-App ist\n\n{legalName}\n{legalAddressStreet}\n{legalAddressCity}",
+  "@privacyPolicy3": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      },
+      "legalAddressStreet": {
+        "type": "String",
+        "example": "Main Street 12"
+      },
+      "legalAddressCity": {
+        "type": "String",
+        "example": "Devtown 01234"
+      }
+    }
+  },
+  "privacyPolicy4": "Erhebung und Verarbeitung personenbezogener Daten",
+  "privacyPolicy5": "a) Registrierung und Profil\nUm die Clubz-App nutzen zu können, müssen Sie sich zunächst registrieren. Dabei erheben wir Ihre E-Mail-Adresse. Optional können Sie weitere Angaben zu Ihrem Profil machen, wie z.B. Ihren Namen, ein Profilbild und einen Benutzernamen. Sie können Ihr Nutzerkonto und Ihre Daten löschen, indem Sie in den Einstellungen Ihr Profil löschen.",
+  "privacyPolicy6": "b) Nutzung der App\nWenn Sie die Clubz-App nutzen, erheben wir Daten, die unmittelbar mit der Nutzung zusammenhängen. Dazu gehören z.B. Angaben zu den von Ihnen erstellten oder besuchten Events, wie Datum, Ort und Eventname. Außerdem erfassen wir Daten zu Ihren App-Einstellungen und der Interaktionen mit anderen Nutzerprofilen, wie Follower und abonnierte Personen. Optional greift die Clubz-App nach Ihrer Bestätigung auf die Standortdaten Ihres Geräts zu, die zur Verwendung bestimmter Funktionen erforderlich sind, wie der Auswahl des Ortes für Ihr Event, oder der Standort-Filterung.",
+  "privacyPolicy7": "c) Automatisch erfasste Daten\nBei der Nutzung der Clubz-App werden automatisch technische Daten erfasst, wie z.B. die IP-Adresse Ihres Geräts, das Datum und die Uhrzeit des Zugriffs, die Art des Betriebssystems, den Browser- und Geräte-Typ und die Spracheinstellungen.",
+  "privacyPolicy8": "d) Analysedaten\nWährend der Nutzung der App erfassen wir weiterhin Daten über Ihrer Interaktionen, wie bestimmte Button-Klicks, oder Fenster-Aufrufe.",
+  "privacyPolicy9": "Zweck der Datenverarbeitung",
+  "privacyPolicy10": "a) Registrierung und Profil\nDie Erhebung und Verarbeitung Ihrer Daten im Zusammenhang mit der Registrierung und dem Profil dient dem Zweck, Ihnen die Nutzung der Clubz-App zu ermöglichen und Ihnen eine interaktive und personalisierte Erfahrung zu bieten.",
+  "privacyPolicy11": "b) Nutzung der App\nDie Erhebung und Verarbeitung der Daten im Zusammenhang mit der Nutzung der Clubz-App dient dem Zweck, die App-Funktionen bereitzustellen und Ihnen eine personalisierte und optimierte Erfahrung zu bieten.",
+  "privacyPolicy12": "c) Automatisch erfasste Daten\nDie automatisch erfassten Daten werden ausschließlich zu technisch erforderlichen sowie statistischen Zwecken genutzt, um die Nutzung der Clubz-App zu ermöglichen und zu verbessern.",
+  "privacyPolicy13": "d) Analysedaten\nDie Erhebung und Verarbeitung von Analysedaten dient dem Zweck, das Nutzerverhalten zu Analysieren und die App-Erfahrung zu verbessern.",
+  "privacyPolicy14": "Rechtsgrundlage der Datenverarbeitung",
+  "privacyPolicy15": "Die Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. b DSGVO, da die Verarbeitung der Daten für die Erfüllung des Nutzungsvertrags mit Ihnen erforderlich ist.",
+  "privacyPolicy16": "Hosting",
+  "privacyPolicy17": "Die Clubz-App benutzt für das Server- und Datenbank-Hosting den Anbieter “Supabase”. Dieser stellt die Datenbanken und die nötigen Server-Funktionen für die Authentifizierung, die Verwendung der App und die Analyse zur Verfügung.\nWir haben einen Vertrag über Auftragsverarbeitung (AVV) mit Supabase geschlossen. Dieser gewährleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet. Für weitere Informationen besuchen Sie bitte https://supabase.io/docs/company/privacy\n\nAnbieter:\nSupabase, Inc.,\n970 Toa Payoh North #07-04,\nSingapore 318992\nsupport@supabase.io",
+  "privacyPolicy18": "Weitergabe an Dritte",
+  "privacyPolicy19": "Wir geben Ihre personenbezogenen Daten nicht an Dritte weiter, es sei denn, dies ist zur Erfüllung des Nutzungsvertrags mit Ihnen erforderlich oder gesetzlich vorgeschrieben.",
+  "privacyPolicy20": "Speicherdauer",
+  "privacyPolicy21": "Wir speichern Ihre personenbezogenen Daten nur solange, wie dies für die Erfüllung des Nutzungsvertrags mit Ihnen erforderlich ist oder wie dies gesetzlich vorgeschrieben ist. Wenn Sie Ihr Clubz-Profil löschen, werden Ihre personenbezogenen Daten gelöscht, es sei denn, wir sind gesetzlich verpflichtet, diese Daten für einen längeren Zeitraum aufzubewahren.",
+  "privacyPolicy22": "Ihre Rechte",
+  "privacyPolicy23": "Gemäß der DSGVO haben Sie als Nutzer der Clubz-App verschiedene Rechte in Bezug auf Ihre personenbezogenen Daten, die wie folgt aufgelistet werden:",
+  "privacyPolicy24": "a) Recht auf Auskunft: Sie haben das Recht, Auskunft darüber zu erhalten, welche personenbezogenen Daten wir von Ihnen gespeichert haben.",
+  "privacyPolicy25": "b) Recht auf Berichtigung: Sie haben das Recht, unrichtige oder unvollständige personenbezogene Daten von uns berichtigen zu lassen.",
+  "privacyPolicy26": "c) Recht auf Löschung: Sie haben das Recht, die Löschung Ihrer personenbezogenen Daten von uns zu verlangen, sofern die Voraussetzungen gemäß Art. 17 DSGVO erfüllt sind.",
+  "privacyPolicy27": "d) Recht auf Einschränkung der Verarbeitung: Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten von uns zu verlangen, sofern die Voraussetzungen gemäß Art. 18 DSGVO erfüllt sind.",
+  "privacyPolicy28": "e) Recht auf Datenübertragbarkeit: Sie haben das Recht, die Übertragung Ihrer personenbezogenen Daten von uns auf eine andere Stelle zu verlangen, sofern die Voraussetzungen gemäß Art. 20 DSGVO erfüllt sind.",
+  "privacyPolicy29": "f) Widerspruchsrecht: Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer personenbezogenen Daten Widerspruch einzulegen, sofern die Verarbeitung aufgrund berechtigter Interessen gemäß Art. 6 Abs. 1 lit. f DSGVO erfolgt.",
+  "privacyPolicy30": "g) Beschwerderecht: Sie haben das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzulegen, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen die DSGVO verstößt.",
+  "privacyPolicy31": "Anfrage zur Löschung der Daten",
+  "privacyPolicy32": "Unter folgendem Link können Sie die Löuschung Ihrer personenbezogenen Daten beantragen.",
+  "privacyPolicy34": "Änderungen der Datenschutzerklärung",
+  "privacyPolicy35": "Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu aktualisieren, um sie an geänderte rechtliche Anforderungen anzupassen oder um Änderungen unserer Dienstleistungen oder Datenverarbeitungsprozesse zu berücksichtigen. Die jeweils aktuelle Fassung der Datenschutzerklärung ist auf unserer Website verfügbar.",
+  "privacyPolicy36": "Kontakt",
+  "privacyPolicy37": "Wenn Sie Fragen oder Bedenken bezüglich des Datenschutzes haben, können Sie uns unter folgender Adresse kontaktieren:\n\n{legalName}\n{legalAddressStreet}\n{legalAddressCity}\n{legalEmail}",
+  "@privacyPolicy37": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      },
+      "legalAddressStreet": {
+        "type": "String",
+        "example": "Main Street 12"
+      },
+      "legalAddressCity": {
+        "type": "String",
+        "example": "Devtown 01234"
+      },
+      "legalEmail": {
+        "type": "String",
+        "example": "example@example.dev"
+      }
+    }
+  },
+
+  "privacyPolicyDataDeletionPageTitle" : "Daten-Löschung",
+  "privacyPolicyDataDeletion1": "Nutzen Sie das unten stehende Formular, wenn Sie Ihren Account zusammen mit Ihren gesamten Nutzerdaten löschen möchten. Geben Sie dazu einfach die Email-Adresse, oder den Nutzernamen Ihres Accounts an. Existiert ein Account mit diesen Daten, dann erhalten Sie von uns innerhalb eines Tages eine Bestätigungsmail und anschließend werden Ihre Daten gelöscht.",
+  "privacyPolicyDataDeletionHint": "E-Mail / Nutzername",
+  "privacyPolicyDataDeletionSubmitButton": "Löschung beantragen",
+  "privacyPolicyDataDeletionSuccess": "Löschung beantragt!",
+
+  "termsOfUse1": "1. Einführung",
+  "termsOfUse2": "Die App \"Clubz\" wird von {legalName} bereitgestellt und ermöglicht den Nutzern die Erstellung und Suche von Events. Die folgenden Benutzerbedingungen/ Benutzerrichtlinie regeln die Nutzung der App und sind rechtsverbindlich.",
+  "@termsOfUse2": {
+    "placeholders": {
+      "legalName": {
+        "type": "String",
+        "example": "John Smith"
+      }
+    }
+  },
+  "termsOfUse3": "2. Registrierung",
+  "termsOfUse4": "Um alle Funktionen der App nutzen zu können, müssen Sie sich registrieren und ein Profil anlegen. Sie müssen dabei Ihre richtigen persönlichen Informationen angeben und dürfen keine falschen Angaben machen. Wenn Sie jünger als 18 Jahre sind, dürfen Sie die App nur mit Zustimmung eines Erziehungsberechtigten nutzen.",
+  "termsOfUse5": "3. Erstellung von Profilen",
+  "termsOfUse6": "Durch die App können Sie ein Profil erstellen, das öffentlich oder privat sichtbar sein kann. Ihr Profil kann ein Profilbild, Ihren Namen und einen Nutzernamen sowie eine kurze Beschreibung enthalten. Sie müssen sicherstellen, dass Ihr Profil keine Inhalte enthält, die als anstößig oder beleidigend angesehen werden können. Sie sind dafür verantwortlich, sicherzustellen, dass Sie die Rechte an den von Ihnen hochgeladenen Bildern besitzen. Durch die Erstellung eines Profils erklären Sie sich damit einverstanden, dass Clubz die von Ihnen bereitgestellten Informationen nutzen und verarbeiten kann.",
+  "termsOfUse7": "4. Erstellung von Events",
+  "termsOfUse8": "Durch die App können Sie Events erstellen, die öffentlich sichtbar sind. Die Events können Bilder und Daten enthalten, wie beispielsweise Name, Ort, Start- und Enddatum, Beschreibung, Ticketinfos, Altersbeschränkungen und Dresscode. Sie erklären sich damit einverstanden, dass Ihre erstellten Events öffentlich sichtbar sind und die Sichtbarkeit nur oberflächlich durch die Profileinstellungen eingeschränkt wird. Jeder, der einen direkten Link zum Event besitzt, kann trotzdem jederzeit alle Daten öffentlich sehen. Sie bestätigen, dass Sie befugt sind, das Event zu bewerben und dass alle von Ihnen bereitgestellten Informationen wahrheitsgemäß und vollständig sind.",
+  "termsOfUse9": "5. Nutzungsbedingungen",
+  "termsOfUse10": "Sie sind verpflichtet, die App und ihre Funktionen nur im Rahmen der Nutzungsbedingungen zu nutzen und alle geltenden Gesetze und Vorschriften einzuhalten. Sie dürfen die App nicht missbräuchlich nutzen, um Spam, unerwünschte Werbung oder andere rechtswidrige Aktivitäten durchzuführen.",
+  "termsOfUse11": "6. Verhaltensregeln",
+  "termsOfUse12": "Sie dürfen keine anstößigen, beleidigenden, diffamierenden, rassistischen, sexistischen oder anderweitig rechtswidrigen Inhalte oder Verhaltensweisen in der App veröffentlichen oder verbreiten. Sie dürfen keine Inhalte veröffentlichen, die die Rechte Dritter, einschließlich Urheberrechte, Markenrechte oder Persönlichkeitsrechte, verletzen. Sie dürfen keine falschen Angaben über Ihre Identität oder Ihre Beziehung zu anderen Personen machen.",
+  "termsOfUse13": "7. Inhalte",
+  "termsOfUse14": "Sie sind allein verantwortlich für die von Ihnen veröffentlichten Inhalte in der App, einschließlich der Events und Bilder. Sie garantieren, dass Sie alle notwendigen Rechte an den von Ihnen veröffentlichten Inhalten haben und dass Sie uns als App volle Rechte an allen veröffentlichten Inhalten gewähren. Sie dürfen keine Inhalte veröffentlichen, die pornografisch, gewalttätig oder sonstwie anstößig sind. Die Nutzer haben die Möglichkeit, anstößige Inhalte oder Inhalte, die gegen diese Bedingungen verstoßen, zu melden und so vom Support überprüfen zu lassen.",
+  "termsOfUse15": "8. Urheberrecht und geistiges Eigentum",
+  "termsOfUse16": "Sie dürfen keine Inhalte veröffentlichen, die gegen das Urheberrecht oder andere geistige Eigentumsrechte Dritter verstoßen. Wenn Sie der Ansicht sind, dass Ihre Urheberrechte verletzt wurden, können Sie eine Beschwerde einreichen.",
+  "termsOfUse17": "9. Verantwortung der Nutzer",
+  "termsOfUse18": "Sie tragen die volle Verantwortung für alle Ihre Aktivitäten in der App und für alle von Ihnen veröffentlichten Inhalte. Sie erklären sich damit einverstanden, uns gegenüber schadlos zu halten und zu verteidigen, wenn Sie gegen diese Benutzerbedingungen/Benutzerrichtlinie verstoßen.",
+  "termsOfUse19": "10. Haftungsausschluss",
+  "termsOfUse20": "Wir als App-Betreiber übernehmen keine Garantie oder Haftung für die Richtigkeit, Vollständigkeit oder Aktualität der in der App veröffentlichten Inhalte. Wir übernehmen keine Haftung für Schäden, die durch die Nutzung der App entstehen können.",
+  "termsOfUse21": "11. Änderungen der Bedingungen und Richtlinien",
+  "termsOfUse22": "Wir behalten uns das Recht vor, diese Bedingungen und Richtlinien jederzeit zu ändern oder zu aktualisieren. Die geänderten Bedingungen und Richtlinien werden dir per E-Mail oder auf andere geeignete Weise mitgeteilt und treten 30 Tage nach der Mitteilung in Kraft, es sei denn, du erklärst dich vorher schriftlich damit einverstanden. Wenn du nach Ablauf dieser Frist weiterhin unsere App nutzt, gilt dies als Annahme der geänderten Bedingungen und Richtlinien.",
+  "termsOfUse23": "12. Beendigung der Nutzung",
+  "termsOfUse24": "Du kannst die Nutzung unserer App jederzeit beenden, indem du dein Konto löscht. Wir können dein Konto ebenfalls jederzeit aus wichtigem Grund kündigen oder sperren, insbesondere wenn du gegen diese Bedingungen und Richtlinien verstößt. Im Falle einer Kündigung oder Sperrung durch uns hast du keinen Anspruch auf Erstattung von bereits bezahlten Gebühren.",
+  "termsOfUse25": "13. Schlussbestimmungen",
+  "termsOfUse26": "Sollte eine Bestimmung dieser Bedingungen und Richtlinien ganz oder teilweise unwirksam sein oder werden, so wird dadurch die Gültigkeit der übrigen Bestimmungen nicht berührt. Anstelle der unwirksamen Bestimmung tritt eine Regelung, die dem von den Parteien Gewollten am nächsten kommt. Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts."
+}
