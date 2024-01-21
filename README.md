@@ -15,6 +15,14 @@ To view more information like screenshots and backend code and to discover the l
 3. Rename the `.env.samle` file to `.env` and set all environment variables
 4. Run the app with Flutter for android, iOS or web
 
+## Technologies
+
+- [Supabase](https://supabase.com/) for backend functionality
+- [Riverpod](https://riverpod.dev/) for state management
+- [Go_Router](https://pub.dev/packages/go_router) for routing and deep linking
+- [OneSignal](https://onesignal.com/) for push notifications 
+- [intl](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization) for multiple language support
+
 ## Features
 
 ### Profiles
