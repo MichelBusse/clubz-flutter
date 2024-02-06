@@ -54,7 +54,7 @@ dependencies:
   path_provider: ^2.0.12
   palette_generator: ^0.3.3+2
   app_tracking_transparency: ^2.0.3
-  onesignal_flutter: 3.5.1
+  onesignal_flutter: ^5.0.4
   flutter_image_compress: ^2.1.0
   async: ^2.9.0
   shared_preferences: ^2.0.20

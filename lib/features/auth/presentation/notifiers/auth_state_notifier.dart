@@ -48,17 +48,17 @@ class AuthStateNotifier extends riverpod.StateNotifier<Session?> {
     }
     oneSignalInitialized = true;
 
-    OneSignal.shared.setAppId(dotenv.get("ONE_SIGNAL_APP_ID"));
+    OneSignal.initialize(dotenv.get("ONE_SIGNAL_APP_ID"));
 
-    OneSignal.shared.promptUserForPushNotificationPermission();
+    OneSignal.Notifications.requestPermission(true);
   }
 
   /// Updates OneSignal subscription for current user.
   void _updateOneSignalSubscription() async {
     if(state != null) {
-      await OneSignal.shared.setExternalUserId(state!.user.id);
+      await OneSignal.login(state!.user.id);
     }else{
-      OneSignal.shared.removeExternalUserId();
+      OneSignal.logout();
     }
   }
 
